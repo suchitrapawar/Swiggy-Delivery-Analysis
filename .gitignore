@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+myenv/
+venv/
+env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore local IDE settings
+.vscode/
+.idea/
+
+# Ignore large data files if they are over 100MB (optional)
+# *.csv
